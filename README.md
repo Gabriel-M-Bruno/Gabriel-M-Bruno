@@ -66,7 +66,7 @@ then review, test on mobile, and polish every detail.
 </br>
 
 ## 🚀 Projects
-- 💈 Barbershop website (AI-assisted, live demo in the repo)
+- 💈 Barbershop website (AI-assisted, in progress, coming soon...)
 
 ## 🌱 Currently learning
 HTML, CSS, JavaScript fundamentals, API's, Frameworks and Data Bases(MySQL)
